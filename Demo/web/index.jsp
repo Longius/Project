@@ -8,7 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Project Demo</title>
+    <%@include file="jsp/head.jsp"%>
 </head>
 <body>
     <script color="0,0,0" opacity='1' src="../js/headJs/canvas-nest.min.js"></script>
