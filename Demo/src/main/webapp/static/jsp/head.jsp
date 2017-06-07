@@ -5,5 +5,5 @@
   Time: 23:24
   To change this template use File | Settings | File Templates.
 --%>
-    <link rel="icon" href="../graph/fluidicon.png">
+    <link rel="icon" href="graph/fluidicon.png">
 

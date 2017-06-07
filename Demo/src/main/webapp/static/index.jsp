@@ -12,6 +12,6 @@
     <%@include file="jsp/head.jsp"%>
 </head>
 <body>
-    <script color="0,0,0" opacity='1' src="../js/headJs/canvas-nest.min.js"></script>
+    <script color="0,0,0" opacity='1' src="js/headJs/canvas-nest.min.js"></script>
 </body>
 </html>
